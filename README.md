@@ -15,7 +15,8 @@ React and dva based, lightweight and base compones. (Inspired by (ant-design)htt
 ### 功能
 insert,delete,updata,select增删改查
 
-### 使用方式
+### 运行
+```bash
 npm install
-
 npm start
+```

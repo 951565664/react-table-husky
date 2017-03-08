@@ -1,5 +1,5 @@
 # react-table-husky  小哈react-table
-![NPM version](https://img.shields.io/npm/v/dva.svg?style=flat)3.0.8
+
 
 
 this is a table component with ant-d UI library and dva,it can insert,delete,updata,select.

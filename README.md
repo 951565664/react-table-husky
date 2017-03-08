@@ -4,7 +4,11 @@
 [![Coverage Status](https://img.shields.io/coveralls/dvajs/dva.svg?style=flat)](https://coveralls.io/r/dvajs/dva)
 [![NPM downloads](http://img.shields.io/npm/dm/dva.svg?style=flat)](https://npmjs.org/package/dva)
 [![Dependencies](https://david-dm.org/dvajs/dva/status.svg)](https://david-dm.org/dvajs/dva)
-this is a table component with ant-d UI library and dva,it can insert,delete,updata,select.这是一个用ant-d UI库和dva搭建的一个table组件，它具有简单的增删改查功能
+this is a table component with ant-d UI library and dva,it can insert,delete,updata,select.
+
+React and dva based, lightweight and base compones. (Inspired by (ant-design)https://github.com/ant-design/ant-design)
+
+这是一个用ant-d UI库和dva搭建的一个table组件，它具有简单的增删改查功能
 
 
 ### 版权

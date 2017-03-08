@@ -4,7 +4,7 @@
 
 this is a table component with ant-d UI library and dva,it can insert,delete,updata,select.
 
-React and dva based, lightweight and base compones. (Inspired by (ant-design)https://github.com/ant-design/ant-design)
+React and dva based, lightweight and base compones. 
 
 这是一个用ant-d UI库和dva搭建的一个table组件，它具有简单的增删改查功能
 

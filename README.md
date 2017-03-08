@@ -1,9 +1,7 @@
 # react-table-husky  小哈react-table
-[![NPM version](https://img.shields.io/npm/v/dva.svg?style=flat)](https://npmjs.org/package/dva)
-[![Build Status](https://img.shields.io/travis/dvajs/dva.svg?style=flat)](https://travis-ci.org/dvajs/dva)
-[![Coverage Status](https://img.shields.io/coveralls/dvajs/dva.svg?style=flat)](https://coveralls.io/r/dvajs/dva)
-[![NPM downloads](http://img.shields.io/npm/dm/dva.svg?style=flat)](https://npmjs.org/package/dva)
-[![Dependencies](https://david-dm.org/dvajs/dva/status.svg)](https://david-dm.org/dvajs/dva)
+[![NPM version]30.10.8
+
+
 this is a table component with ant-d UI library and dva,it can insert,delete,updata,select.
 
 React and dva based, lightweight and base compones. (Inspired by (ant-design)https://github.com/ant-design/ant-design)

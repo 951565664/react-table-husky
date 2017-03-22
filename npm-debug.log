@@ -1,0 +1,51 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\Program Files (x86)\\NodeJs\\node.exe',
+1 verbose cli   'C:\\Users\\Administrator\\AppData\\Roaming\\npm\\node_modules\\cnpm\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   '--userconfig=C:\\Users\\Administrator\\.cnpmrc',
+1 verbose cli   '--disturl=https://npm.taobao.org/mirrors/node',
+1 verbose cli   '--registry=https://registry.npm.taobao.org',
+1 verbose cli   'run',
+1 verbose cli   'build' ]
+2 info using npm@3.10.10
+3 info using node@v6.9.1
+4 verbose run-script [ 'prebuild', 'build', 'postbuild' ]
+5 info lifecycle @~prebuild: @
+6 silly lifecycle @~prebuild: no script for prebuild, continuing
+7 info lifecycle @~build: @
+8 verbose lifecycle @~build: unsafe-perm in lifecycle true
+9 verbose lifecycle @~build: PATH: C:\Users\Administrator\AppData\Roaming\npm\node_modules\cnpm\node_modules\npm\bin\node-gyp-bin;D:\git\react-table-husky\node_modules\.bin;%SystemRoot%\system32\WindowsPowerShell\v1.0\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\NodeJs\;D:\Program Files\TortoiseSVN\bin;D:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Roaming\npm
+10 verbose lifecycle @~build: CWD: D:\git\react-table-husky
+11 silly lifecycle @~build: Args: [ '/d /s /c', 'atool-build' ]
+12 silly lifecycle @~build: Returned: code: 1  signal: null
+13 info lifecycle @~build: Failed to exec build script
+14 verbose stack Error: @ build: `atool-build`
+14 verbose stack Exit status 1
+14 verbose stack     at EventEmitter.<anonymous> (C:\Users\Administrator\AppData\Roaming\npm\node_modules\cnpm\node_modules\npm\lib\utils\lifecycle.js:255:16)
+14 verbose stack     at emitTwo (events.js:106:13)
+14 verbose stack     at EventEmitter.emit (events.js:191:7)
+14 verbose stack     at ChildProcess.<anonymous> (C:\Users\Administrator\AppData\Roaming\npm\node_modules\cnpm\node_modules\npm\lib\utils\spawn.js:40:14)
+14 verbose stack     at emitTwo (events.js:106:13)
+14 verbose stack     at ChildProcess.emit (events.js:191:7)
+14 verbose stack     at maybeClose (internal/child_process.js:877:16)
+14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+15 verbose pkgid @
+16 verbose cwd D:\git\react-table-husky
+17 error Windows_NT 6.1.7601
+18 error argv "D:\\Program Files (x86)\\NodeJs\\node.exe" "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\node_modules\\cnpm\\node_modules\\npm\\bin\\npm-cli.js" "--userconfig=C:\\Users\\Administrator\\.cnpmrc" "--disturl=https://npm.taobao.org/mirrors/node" "--registry=https://registry.npm.taobao.org" "run" "build"
+19 error node v6.9.1
+20 error npm  v3.10.10
+21 error code ELIFECYCLE
+22 error @ build: `atool-build`
+22 error Exit status 1
+23 error Failed at the @ build script 'atool-build'.
+23 error Make sure you have the latest version of node.js and npm installed.
+23 error If you do, this is most likely a problem with the  package,
+23 error not with npm itself.
+23 error Tell the author that this fails on your system:
+23 error     atool-build
+23 error You can get information on how to open an issue for this project with:
+23 error     npm bugs
+23 error Or if that isn't available, you can get their info via:
+23 error     npm owner ls
+23 error There is likely additional logging output above.
+24 verbose exit [ 1, true ]

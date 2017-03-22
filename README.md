@@ -15,6 +15,8 @@ React and dva based, lightweight and base compones.
 ### 功能
 insert,delete,updata,select增删改查
 
+### Demo
+https://951565664.github.io/react-table-husky/
 ### 运行
 ```bash
 npm install

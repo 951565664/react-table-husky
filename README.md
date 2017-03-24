@@ -10,7 +10,7 @@ React and dva based, lightweight and base compones.
 
 
 ### 版权
-本游戏由 小哈husky QQ:951565664 制作，请尊重作者，引用请注明来源。
+本组件由 小哈husky QQ:951565664 制作，请尊重作者，引用请注明来源。
 
 ### 功能
 insert,delete,updata,select增删改查
@@ -22,3 +22,4 @@ https://951565664.github.io/react-table-husky/
 npm install
 npm start
 ```
+####有用请star
